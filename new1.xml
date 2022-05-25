@@ -1,0 +1,11 @@
+<app>
+     <id>clientdashboard1</id>
+     <name>Test Client Dashboard</name>
+     <provider>AndiTest</provider>
+     <description>A tool to see clients</description>
+     <extensionpoint>
+          <location>REPORTING_VIEW</location>
+          <label>Clients</label>
+          <url>https://app.powerbi.com/groups/me/reports/d00732c6-edf6-44e7-acb0-060fe5baff04/ReportSection</url>
+     </extensionpoint>
+</app>
