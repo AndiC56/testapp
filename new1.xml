@@ -6,6 +6,6 @@
      <extensionpoint>
           <location>REPORTING_VIEW</location>
           <label>Clients</label>
-          <url>https://app.powerbi.com/groups/me/reports/d00732c6-edf6-44e7-acb0-060fe5baff04/ReportSection</url>
+          <url>https://app.powerbi.com/reportEmbed?reportId=d00732c6-edf6-44e7-acb0-060fe5baff04&autoAuth=true&ctid=fce4278c-a994-4a5a-8d96-fbcc465d8e58&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWQtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D</url>
      </extensionpoint>
 </app>
