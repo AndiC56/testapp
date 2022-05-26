@@ -1,1 +1,0 @@
-<app>     <id>clientAccountBal1</id>     <name>Test Account Bal Dashboard</name>     <provider>AndiTest</provider>     <description>A tool to see balance</description>     <extensionpoint>          <location>DEPOSIT_ACCOUNT_VIEW</location>          <label>Balance</label>          <url>https://tinyurl.com/mrh8zy3r </url>     </extensionpoint></app>
