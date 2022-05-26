@@ -1,0 +1,11 @@
+<app>
+     <id>acctBalDashboard1</id>
+     <name>Test Acct Bal Dashboard</name>
+     <provider>AndiTest</provider>
+     <description>A tool to see acct bal</description>
+     <extensionpoint>
+          <location>DEPOSIT_ACCOUNT_VIEW</location>
+          <label>Balance</label>
+          <url>https://tinyurl.com/mrh8zy3r</url>
+     </extensionpoint>
+</app>
