@@ -10,7 +10,7 @@
 
 <extensionpoint>
 
-  <location>REPORT_VIEW</location>
+  <location>REPORTING_VIEW</location>
 
   <label>Holding Details</label>
 
