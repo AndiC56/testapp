@@ -1,20 +1,20 @@
 <app>
 
-<id>sampleHoldingSheet</id>
+  <id>sampleHoldingSheet</id>
 
-<name>Sample Holding Sheet</name>
+  <name>Sample Holding Sheet</name>
 
-<provider>AndiTest</provider>
+  <provider>AndiTest</provider>
 
-<description>A tool to see clients holding</description>
+  <description>A tool to see clients holding</description>
 
 <extensionpoint>
 
-<location>EXTENSION_MENU</location>
+  <location>EXTENSION_MENU</location>
 
-<label>Holding Details</label>
+  <label>Holding Details</label>
 
-<url>https://docs.google.com/spreadsheets/d/e/2PACX-1vQWC9umQx0EGmzb__mIOFRBTGfptkzHAXWUwm4GviqlMM2wmRAaDIZ0mL9ArrV50g/pub?output=xlsx</url>
+  <url>https://docs.google.com/spreadsheets/d/e/2PACX-1vQWC9umQx0EGmzb__mIOFRBTGfptkzHAXWUwm4GviqlMM2wmRAaDIZ0mL9ArrV50g/pub?output=ods</url>
 
 </extensionpoint>
 
