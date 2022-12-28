@@ -1,0 +1,21 @@
+<app>
+
+  <id>mbsupport</id>
+
+  <name>Mambu Support</name>
+
+  <provider>AndiTest</provider>
+
+  <description>Link to MB Support</description>
+
+<extensionpoint>
+
+  <location>EXTENSION_VIEW</location>
+
+  <label>Mambu Support</label>
+
+  <url>https://support.mambu.com</url>
+
+</extensionpoint>
+
+</app>
