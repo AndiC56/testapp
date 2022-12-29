@@ -1,0 +1,11 @@
+<app>
+	<id>sampleHoldingSheet</id>
+	<name>Sample Holding Sheet</name>
+  <provider>AndiTest</provider>
+  <description>A tool to see clients holding</description>
+	<extensionpoint>
+		<location>REPORTING_VIEW</location>
+  	<label>Holding Details</label>
+		<url>https://docs.google.com/spreadsheets/d/e/2PACX-1vQWC9umQx0EGmzb__mIOFRBTGfptkzHAXWUwm4GviqlMM2wmRAaDIZ0mL9ArrV50g/pubhtml</url>
+	</extensionpoint>
+</app>
