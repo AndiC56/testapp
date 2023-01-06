@@ -6,6 +6,6 @@
 	<extensionpoint>
 		<location>EXTENSION_MENU</location>
   	<label>Sample Holding Sheet</label>
-		<url>https://sites.google.com/view/testholdingsheet/</url>
+		<url>https://sites.google.com/view/testholdingsheet/home</url>
 	</extensionpoint>
 </app>
