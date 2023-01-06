@@ -1,0 +1,11 @@
+<app>
+     <id>holdingsheet</id>
+     <name>holdingsheet1</name>
+     <provider>AndiTest</provider>
+     <description>holdingsheet2</description>
+     <extensionpoint>
+          <location>EXTENSION_MENU</location>
+          <label>HoldingSheet</label>
+          <url>https://raw.githubusercontent.com/AndiC56/testapp/main/SampleHoldinghome.xml</url>
+     </extensionpoint>
+</app>
