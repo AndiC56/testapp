@@ -2,10 +2,10 @@
      <id>holdingsheet</id>
      <name>holdingsheet1</name>
      <provider>AndiTest</provider>
-     <description>form</description>
+     <description>Holding_Sheet</description>
      <extensionpoint>
           <location>EXTENSION_MENU</location>
-          <label>form</label>
+          <label>Holding Sheet</label>
           <url>https://airtable.com/shrdlBxiaPqVYpKOm</url>
      </extensionpoint>
 </app>
