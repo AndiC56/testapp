@@ -6,6 +6,6 @@
      <extensionpoint>
           <location>EXTENSION_MENU</location>
           <label>HoldingSheet</label>
-          <url>https://airtable.com/appqfsHsoRdAJnwRR/tblk2q6F48cmFMXQS/viwYsZqRwjXuxjN9V?blocks=hide</url>
+          <url>https://airtable.com/embed/shrdlBxiaPqVYpKOm?backgroundColor=yellow&viewControls=on</url>
      </extensionpoint>
 </app>
